@@ -1,0 +1,5 @@
+This arduino library is for detecting wireless doorbells.
+It has been tested with whatever doorbells came with my rented houses (Honeywell 433MHz).
+
+License: GPLv3
+Author: David Honour 2014
