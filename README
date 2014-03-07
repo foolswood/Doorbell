@@ -1,5 +1,7 @@
-This arduino library is for detecting wireless doorbells.
+This arduino library is for detecting wireless doorbells (I used a PPWRL-10532 but it should be quite general).
 It has been tested with whatever doorbells came with my rented houses (Honeywell 433MHz).
+
+There is a circuit diagram in the examples folder.
 
 License: GPLv3
 Author: David Honour 2014
